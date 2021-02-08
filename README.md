@@ -13,4 +13,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vroomyy)
 
 #### Github Stats
-<img src= "https://github-readme-stats.vercel.app/api?username=vroomyy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vroomyy&show_icons=true&theme=midnight-purple&hide=issues">
+  <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=vroomyy&layout=compact&theme=midnight-purple>
+</p>
