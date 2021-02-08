@@ -14,6 +14,6 @@
 
 #### Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vroomyy&show_icons=true&theme=midnight-purple&hide=issues">
-  <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=vroomyy&layout=compact&theme=midnight-purple>
+  <img width="150" src= "https://github-readme-stats.vercel.app/api?username=vroomyy&show_icons=true&theme=midnight-purple&hide=issues">
+  <img width="150" src= https://github-readme-stats.vercel.app/api/top-langs/?username=vroomyy&layout=compact&theme=midnight-purple>
 </p>
