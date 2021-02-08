@@ -2,7 +2,7 @@
 
 <h4>Languages</h4>
 <img align="left" height="20" style="padding: 3px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png">
-<img align="left" height="20" style="padding: 3px" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png">
+<img align="left" height="20" style="padding: 3px" src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png">
 <img align="left" height="20" style="padding: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 <img align="left" height="20" style="padding: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" height="20" style="padding: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
